@@ -58,4 +58,4 @@ if model is not None:
         prob_df = pd.DataFrame(probability, columns=target_names)
         st.bar_chart(prob_df.T)
 else:
-    st.warning("Please upload 'iris_model.pkl' to the directory to enable predictions."              
+    st.warning("Please upload 'iris_model.pkl' to the directory to enable predictions.")              
