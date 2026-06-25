@@ -1,4 +1,4 @@
 # model__deployment
-this is my forst git repository
+This is my first git repository
 <br>
 Author - Tamali Mahapatra
